@@ -19,7 +19,7 @@ Objectives:
 
 2. Optimize the placement and configuration of sensors to maximize energy harvesting efficiency. 
 
-3. Develop an efficient circuit to convert harvested energy into electrical energy and store it in a 
+3. Develop an efficient circuit to convert harvested energy into electrical energy and store it in a
 
 battery. 
 
