@@ -1,7 +1,8 @@
 # Smart-Steps-Harvesting-Energy-from-Footsteps-with-Piezoelectric
 The smart shoe project combines wearable technology and energy harvesting. It involves developing a shoe that can convert kinetic energy from walking into electrical energy using piezoelectric sensors, providing a sustainable power source for wearables.
 
-![Uploading image.png…]()
+![image](https://github.com/moreatharvaa/Smart-Steps-Harvesting-Energy-from-Footsteps-with-Piezoelectric/assets/88966976/6d12b46b-4518-479f-87dc-373d07936f83)
+
 
 
 Problem Statement:
